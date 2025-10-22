@@ -35,6 +35,8 @@ Simple static landing page built for the "Trilha de CSS - DIO" exercise.
 
 This repository contains a single static page (index.html) plus CSS reset/style and image assets. The page is intentionally small and focused — no frameworks, no JS required.
 
+**You can see the result here:** <https://rug-gieri.github.io/Lading-page-DIO/>
+
 What is in this repo
 - index.html — the full landing page markup (hero/banner, course modules, small promotional sections, footer).
 - assets/css/reset.css — CSS reset used by the project.
