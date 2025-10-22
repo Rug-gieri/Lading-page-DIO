@@ -9,6 +9,8 @@ Esse repositório contém uma página estática (index.html) + CSS para reset es
 - assets/css/style.css — estilização da página
 - assets/images/* — Logos e imagens ilustrativas utilizadas na página.
 
+**Você pode acessar resultado por aqui:** <https://rug-gieri.github.io/Lading-page-DIO/>
+
 ## Seções principais em index.html
 - Header banner (logo, título, descrição, CTA button)
 - Course content (`#course-content`) — Descrição simples e 3 módulos
