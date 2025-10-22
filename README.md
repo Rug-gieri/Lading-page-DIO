@@ -26,7 +26,8 @@ Esse repositório contém uma página estática (index.html) + CSS para reset es
 
 Contato do Proprietário: @Rug-gieri
 
-====== In english 
+***
+### ====== In English ======
 
 # Lading-page-DIO
 
