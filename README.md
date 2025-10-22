@@ -1,3 +1,31 @@
+# Página simples estática elaborada para prática. 
+
+Esse repositório contém uma página estática (index.html) + CSS para reset estilização e assets de imagens. Essa página é intencionalmente simples, sem JS necessário. 
+
+## O que há no repositório: 
+
+- index.html — A página de marcação completa da landing page (hero/banner, course modules, pequenas sessões promocionais, footer).
+- assets/css/reset.css — CSS Reset utilizado no projeto.
+- assets/css/style.css — estilização da página
+- assets/images/* — Logos e imagens ilustrativas utilizadas na página.
+
+## Seções principais em index.html
+- Header banner (logo, título, descrição, CTA button)
+- Course content (`#course-content`) — Descrição simples e 3 módulos
+- Transform message (`#transform-world`) — Uma frase curta de slogan
+- Professional challenges (`#professional-challenges`) — image + parágrafo
+- Footer — DIO logo e link para dio.me
+
+## Observações
+
+- Não é necessário JavaScript para os recursos existentes.
+- Este projeto é minimalista por natureza — perfeito para aprendizado ou para personalização.
+- Acessibilidade: mantenha os atributos alt para imagens (já presentes em index.html).
+
+Contato do Proprietário: @Rug-gieri
+
+====== In english 
+
 # Lading-page-DIO
 
 Simple static landing page built for the "Trilha de CSS - DIO" exercise.
